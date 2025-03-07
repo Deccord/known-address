@@ -13,7 +13,7 @@ export const knownAddresses: AddressLabel[] = [
     description: 'Main developer funding address',
     url: 'https://www.deccord.com',
     category: 'developer'
-  }, // only add your address on the bottom order
+  },
   {
     address: 'DC6CfnCdV8EjZTR6bwXgGCxi8V4B3Nwm8X',
     name: 'altcoinspool.com',
@@ -26,6 +26,20 @@ export const knownAddresses: AddressLabel[] = [
     name: 'minorpool.com',
     description: 'Mining Pools address',
     url: 'https://minorpool.com',
+    category: 'pool'
+  },
+  {
+    address: 'DNiwm95UEAJ2TWX9X5cAmjaMKdaD4LC8bj',
+    name: 'mecacex.com',
+    description: 'Mecacex Exchange Hot Wallet',
+    url: 'https://mecacex.com',
+    category: 'exchange'
+  },
+  {
+    address: 'D5ZX4ocNdQUuq8NwEGRLDA2Pq4PMN5THYM',
+    name: 'zergpool.com',
+    description: 'Mining Pools address',
+    url: 'https://zergpool.com',
     category: 'pool'
   },
 ]
